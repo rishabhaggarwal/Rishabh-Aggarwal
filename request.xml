@@ -1,0 +1,13 @@
+<cs_club-REQUESTS>
+	<request>
+		<name>Yash Kumar Verma</name>
+		<age>16</age>
+		<gender>Male</gender>
+		<class>11</class>
+		<section>B</section>
+		<langKnown>HTML, CSS(LESS,SCSS), JS (JQ,AJAX), PHP, SQL, C++</langKnown>
+		<email>yk.verma2000@gmail.com</email>
+		<githubUsername>YashKumarVerma</githubUsername>
+		<githubProfLink>http://yashkumarverma.github.io/</githubProfLink>
+	</request>
+</cs_club-REQUESTS>
