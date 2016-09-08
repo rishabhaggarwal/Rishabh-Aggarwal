@@ -19,3 +19,10 @@ This repo contains the index of all the approved members. If you wish to become 
 * If merge conflicts arise, re-clone and repeat the process.
 * Make sure you dont edit any other file on the repo.
 
+---
+If you have any problem in any step, feel free to start an issue. Main motive of this mode of registration is to introduce the future members to Github, which will be our main playground.
+
+
+[Yash Kumar Verma](http://github.com/yashkumarverma "yash")
+
+Campus Ambassador
